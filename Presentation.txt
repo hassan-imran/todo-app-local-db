@@ -1,0 +1,4 @@
+DB structure
+Node and express implementation
+React & Redux
+Demonstration

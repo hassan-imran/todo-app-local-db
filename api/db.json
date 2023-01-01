@@ -1,0 +1,14 @@
+{
+    "users": {
+        "admin": {
+            "firstName": "Robot",
+            "lastName": "admin",
+            "pass": "admin123",
+            "todo": [
+                "Task 1",
+                "Task 2",
+                "Task 3"
+            ]
+        }
+    }
+}
