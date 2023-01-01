@@ -10,7 +10,7 @@
 
 ## Objective
 
-To create a login app using React, React Router & manage state using React-Redux
+To create a login app using React, React Router & manage state using React-Redux. The backend is managed by Node.js using Express.
 
 #### Functionalites
 
